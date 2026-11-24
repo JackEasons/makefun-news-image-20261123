@@ -9,13 +9,14 @@ Mercury arrival 21 Nov, Riemann proof claim 20 Nov).
 
 1. BANTEN, INDONESIA — 24 killed in a candy factory fire; about 30
    missing. Fire broke out Sat 21 Nov at the PT Fonusa Agung Mulia plant
-   in Cikande; the toll of 24 was confirmed Mon 23 Nov. — Reuters
+   in Cikande; the toll of 24 was confirmed Mon 23 Nov. DNA is needed to
+   identify the victims. — Reuters / The Guardian
 2. STRAIT OF HORMUZ — Mines set three oil tankers ablaze; Iran's
    Revolutionary Guard claims the strikes, as the US naval blockade of
    Iranian oil enters its 130th day. — Al Jazeera
 3. ANTALYA, TURKIYE — COP31 climate talks end with no deal after
    record-long talks; 190+ nations split over fossil fuels and adaptation
-   finance. — Reuters
+   finance. The first total COP failure since 2009. — Reuters / Nature
 4. SANTA CLARA — Nvidia's board brings back Jensen Huang as chief
    executive, weeks after he quit in a spy row. — AP
 5. BENGHAZI, LIBYA — Ukraine says its naval drones sank a Russian
@@ -79,6 +80,16 @@ Mercury arrival 21 Nov, Riemann proof claim 20 Nov).
 32. MEXICO CITY — Mexico and China agree a trade working group. —
     Standard Topic
 33. CANBERRA — Georgie Prespakis wins the AFLW best and fairest. — ABC
+
+## Date-check notes (not among the 33)
+
+- Cyclone Akvan made landfall near Gopalpur, Odisha, on Fri 20 Nov;
+  about 372,000 people were moved to shelters and no deaths were
+  reported. — Odisha state government via DD News / The Watchers
+- BepiColombo entered orbit around Mercury on Sat 21 Nov; the thruster
+  glitch was reported Sun 22 Nov and ESA updates followed Mon 23 Nov.
+- The Riemann proof claim was announced Fri 20 Nov; the verification
+  debate it sparked was covered on Mon 23 Nov. — Nature
 
 ## Region counts
 

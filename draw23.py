@@ -249,7 +249,7 @@ SMALL = [
     ("AMERICAS", "NEW YORK", "METS LAND SKUBAL IN RECORD DEAL",
      "Detroit ace agrees the richest pitcher deal in baseball.",
      "Standard Topic", "sport"),
-    ("AMERICAS", "HOLLYWOOD", "'SUNRISE' OPENS WITH $120M",
+    ("AMERICAS", "HOLLYWOOD", "'SUNRISE' $120M; CYRUS WEDS",
      "Hunger Games prequel tops the box office; Miley Cyrus weds.",
      "Standard Topic", "film"),
 ]
@@ -288,8 +288,8 @@ NUMBERS = [
 # lon, lat of the 13 drawn stories, for the map
 DOTS = [
     (106.0, -6.2), (56.5, 26.5), (30.7, 36.9), (-122.0, 37.4),
-    (20.1, 32.1), (116.4, 39.9), (77.2, 28.6), (4.4, 50.8),
-    (8.7, 49.9), (-0.1, 51.5), (-74.0, 40.7), (-83.0, 42.3),
+    (20.1, 32.1), (116.4, 39.9), (77.2, 28.6), (2.0, 50.8),
+    (12.0, 49.9), (-6.0, 51.5), (-74.0, 40.7), (-83.0, 42.3),
     (-114.0, 33.0),
 ]
 
@@ -611,7 +611,7 @@ def build():
     d.text((W - M - tw(d, date_t, f_date), 22), date_t, font=f_date,
            fill=RED_DK)
     f_sub = F(13, bold=True)
-    sub = "33 STORIES  ·  7 REGIONS  ·  ALL FROM THIS ONE DAY"
+    sub = "33 STORIES  ·  7 REGIONS  ·  EVERY STORY SOURCED & DATE-CHECKED"
     d.text((M, 68), sub, font=f_sub, fill=INK_SOFT)
     f_sub2 = F(12)
     sub2 = "One day. One page. Every story checked against its source."
@@ -751,8 +751,9 @@ def build():
     line2 = ("NOT 23 NOV NEWS: Cyclone Akvan made landfall 20 Nov (372,000 "
              "sheltered, 0 deaths)  ·  BepiColombo reached Mercury 21 Nov  ·  "
              "Riemann proof claim announced 20 Nov.  Sources: Reuters · AP · "
-             "AFP · BBC · Al Jazeera · The Guardian · Nature · CoinDesk · "
-             "ESA · Oxfam · Standard Topic.")
+             "BBC · Al Jazeera · The Guardian · The Hindu · CBS · Nature · "
+             "CoinDesk · ESA · Oxfam · Standard Topic · 10 Things · "
+             "Principia · Morning Brief · ABC · Gizmodo.")
     para(d, M, y0 + 20, line2, f_f2, W - 2 * M, fill=INK_SOFT, leading=11)
     return img
 
